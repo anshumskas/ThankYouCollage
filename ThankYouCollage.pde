@@ -1,4 +1,5 @@
 //add thank you code here
+/* @pjs preload="flag.png"; */
 PImage img;
 
 void setup() {
