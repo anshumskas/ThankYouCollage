@@ -1,8 +1,8 @@
 //add thank you code here
-/* @pjs preload="wooden-board-empty-table-top-on-of-blurred-background_1253-1584.jpg"; */
-/* @pjs preload="c04939092.png"; */
-/* @pjs preload="Screen_Shot_2018-06-02_at_2.49.07_PM.png"; */
-/* @pjs preload="thank-you-lettering_1262-6963.jpg"; */
+/*  preload="wooden-board-empty-table-top-on-of-blurred-background_1253-1584.jpg"; */
+/*  preload="c04939092.png"; */
+/*  preload="Screen_Shot_2018-06-02_at_2.49.07_PM.png"; */
+/*  preload="thank-you-lettering_1262-6963.jpg"; */
 PImage img;
 
 void setup() {
