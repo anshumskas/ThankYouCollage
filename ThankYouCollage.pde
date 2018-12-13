@@ -5,7 +5,7 @@
 /* preload="thank-you-lettering_1262-6963.jpg"; */
 PImage wooden;
 PImage c04939092;
-PImage Screen_Shot_2018-06-02_at_2.49.07_PM;
+PImage Screen;
 PImage thank-you-lettering_1262-6963;
 
 void setup() {
@@ -13,7 +13,7 @@ void setup() {
   frameRate(60);
    wooden = loadImage ("wooden-board-empty-table-top-on-of-blurred-background_1253-1584.jpg");
     c04939092 = loadImage ("c04939092.png");
-     Screen_Shot_2018-06-02_at_2.49.07_PM = loadImage ("Screen_Shot_2018-06-02_at_2.49.07_PM.png");
+     Screen = loadImage ("Screen_Shot_2018-06-02_at_2.49.07_PM.png");
    thank-you-lettering_1262-6963 = loadImage( "thank-you-lettering_1262-6963.jpg");
 }
 
